@@ -1,4 +1,7 @@
-## Contents:
+
+This is readme file for SyncKing Kong.
+
+<!-- ## Contents:
 1. [Introduction](https://github.com/anothermartz/Easy-Wav2Lip?tab=readme-ov-file#easy-wav2lip-improves-wav2lip-video-lipsyncing-making-it)
 2. [Google Colab version (free cloud computing in-browser)](https://github.com/anothermartz/Easy-Wav2Lip?tab=readme-ov-file#google-colab)
 3. [Local Installation](https://github.com/anothermartz/Easy-Wav2Lip?tab=readme-ov-file#local-installation)
@@ -265,4 +268,4 @@ Disabling this will save a few seconds of processing time for each video.
 
 ### preview_settings
 This will render only 1 frame of your video and display it at full size, this is so you can tweak the settings without having to render the entire video each time.
-frame_to_preview is for selecting a particular frame you want to check out - may not be completely accurate to the actual frame.
+frame_to_preview is for selecting a particular frame you want to check out - may not be completely accurate to the actual frame. -->
