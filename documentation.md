@@ -1,0 +1,1 @@
+This is doumentation for SyncKing Kong.
